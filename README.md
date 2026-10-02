@@ -18,4 +18,4 @@ Sitio web modular y responsivo desarrollado como parte de la asignatura DSY1104 
 
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/mi-portafolio.git](https://github.com/tu-usuario/mi-portafolio.git)
+   git clone https://github.com/27enzooo/mi-portafolio.git
