@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "titulo": "Pagina Web Pastelería 1000 sabores",
+    "descripcion": "plataforma web para catálogo de productos, pedidos en línea y presentación de repostería artesanal.",
+    "imagen": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=800&q=80",
+    "link": "https://github.com/marincito19/pasteleria-1000-sabores"
+  },
+  {
+    "id": 2,
+    "titulo": "Portafolio Web Personal",
+    "descripcion": "Sitio web modular y responsivo desarrollado con React y Bootstrap, optimizado con carga dinámica de datos en JSON.",
+    "imagen": "https://picsum.photos/id/0/300/180",
+    "link": "https://github.com"
+  },
+  {
+    "id": 3,
+    "titulo": "Sistema de Inventario",
+    "descripcion": "Aplicación web desarrollada en Python y SQL para control de stock.",
+    "imagen": "https://picsum.photos/id/1/300/180",
+    "link": "https://github.com"
+  }
+]
